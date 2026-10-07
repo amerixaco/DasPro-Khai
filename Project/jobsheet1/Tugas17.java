@@ -1,4 +1,6 @@
 public class Tugas17 {
+
+    int a = 1;
     public static void main(String[] args) {
          // Langkah 1
         System.out.println("Setelah Langkah 1: Nampan A = kosong, Nampan B = bulan, Nampan C = bintang");
