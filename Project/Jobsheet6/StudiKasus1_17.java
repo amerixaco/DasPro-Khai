@@ -24,6 +24,7 @@ public class StudiKasus1_17 {
             totalBayar = totalHarga - diskon;            
         } else {
             totalBayar = totalHarga;
+            
 
         System.out.println("Total harga : Rp" + totalHarga);
         System.out.println("Diskon : Rp" + diskon);
